@@ -1,3 +1,4 @@
+<img width="782" height="796" alt="6517ec5f9735dbc6cb143ba32cb5b61a" src="https://github.com/user-attachments/assets/c3c3fb2d-af18-4e2e-9bfb-7703c0364cbf" />
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3g3M3ZtOG4xY2Vvb2h4aGJ3eXQzMWU2aGRxbm5sMXl0eDVrOHN6YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 <div align="center">
 
