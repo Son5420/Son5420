@@ -1,26 +1,4 @@
-<style>.video-bg{
-    position:fixed;
-    inset:0;
-    z-index:-1;
-    overflow:hidden;
-}
 
-.video-bg video{
-    width:100%;
-    height:100%;
-    object-fit:cover;
-}
-
-.content{
-    position:relative;
-    z-index:1;
-    color:white;
-}</style>
-<div class="video-bg">
-  <video autoplay muted loop playsinline>
-    <source src="https://motionbgs.com/media/5316/navia-genshin-impact.960x540.mp4" type="video/mp4">
-  </video>
-</div>
 
 <div class="content">
   <h1>👋 Hi, I'm Edison Pineda</h1>
