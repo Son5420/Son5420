@@ -17,9 +17,9 @@
 
 📚 **Course:** Bachelor of Engineering Technology – Computer Engineering Technology (BET-CPET)
 
-💻 Passionate about Web Development, Software Engineering, and Cybersecurity.
+💻 Passionate about Web Development, Software Engineering.
 
-🌱 Currently learning JavaScript, Python, Java, Git, Linux, and Networking.
+🌱 Currently learning Framer, Python, Java, React, Ai, and C#.
 
 
 ---
@@ -28,7 +28,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp,git,github,vscode,linux,mysql"/>
+<img src="https://skillicons.dev/icons?i=html,css,php,vercel,framer,github,vscode,mysql"/>
 
 </p>
 
