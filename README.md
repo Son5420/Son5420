@@ -4,7 +4,6 @@
 
 
 # 👋 Hi, I'm Edison Pineda
-
 ### 💻 Bachelor of Engineering Technology – Computer Engineering Technology (BET-CPET)
 ### 🎓 Technological University of the Philippines
 
