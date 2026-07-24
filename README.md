@@ -1,3 +1,4 @@
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3g3M3ZtOG4xY2Vvb2h4aGJ3eXQzMWU2aGRxbm5sMXl0eDVrOHN6YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 <div align="center">
 
 # 👋 Hi, I'm Edison Pineda
