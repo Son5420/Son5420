@@ -1,5 +1,3 @@
-
-
 <img align="right" alt="Coding" width="400" alt="b5ae4c67949013b10ee7defd4cd0297c" src="https://github.com/user-attachments/assets/dfa86adf-9f86-4fad-b313-36ec9bbdecce" />
 <div align="center">
 
