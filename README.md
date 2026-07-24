@@ -30,7 +30,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp,git,github,vscode,linux,mysql"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,vercel,php,github,vscode,mysql"/>
 
 </p>
 
