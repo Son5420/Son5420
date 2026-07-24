@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/4e81f3e8-5450-4285-a21a-c0ea2437c571
-
 <h1>👋 Hi, I'm Edison Pineda</h1>
 
 <img align="right" width="280" alt="b5ae4c67949013b10ee7defd4cd0297c-removebg-preview" src="https://github.com/user-attachments/assets/91fd2c2f-a09e-481c-bd72-01e825f818e0" />
