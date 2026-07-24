@@ -5,7 +5,7 @@
 ### 💻 Bachelor of Engineering Technology – Computer Engineering Technology (BET-CPET)
 ### 🎓 Technological University of the Philippines
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C8FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;BET-CPET+Student;Frontend+Developer;Future+Cybersecurity+Engineer;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C8FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;BET-CPET+Student;Be+Humble;Future+Softwere+Dev;Always+Learning+New+Technologies"/>
 
 </div>
 
@@ -21,7 +21,6 @@
 
 🌱 Currently learning JavaScript, Python, Java, Git, Linux, and Networking.
 
-🎯 Goal: Build secure, modern, and user-friendly applications.
 
 ---
 
@@ -67,16 +66,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Son5420&theme=algolia&no-frame=true&row=1"/>
-
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
@@ -103,18 +92,16 @@
 
 # 📌 Current Focus
 
-- 🌐 Frontend Development
-- 🔐 Cybersecurity
-- ☁️ Cloud Computing
-- 🐧 Linux Administration
-- 📱 Mobile Development
-- 🤖 Artificial Intelligence
+- Portfolio
+- Lerning Api
+- Css Designs
+- Framer
 
 ---
 
 # 💬 Quote
 
-> **"Every expert was once a beginner. Keep building, keep learning, and never stop improving."**
+> **"LEARN • BUILD • DEBUG • IMPROVE • REPEAT"**
 
 ---
 
