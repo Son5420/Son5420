@@ -1,3 +1,32 @@
+<style>.video-bg{
+    position:fixed;
+    inset:0;
+    z-index:-1;
+    overflow:hidden;
+}
+
+.video-bg video{
+    width:100%;
+    height:100%;
+    object-fit:cover;
+}
+
+.content{
+    position:relative;
+    z-index:1;
+    color:white;
+}</style>
+<div class="video-bg">
+  <video autoplay muted loop playsinline>
+    <source src="https://motionbgs.com/media/5316/navia-genshin-impact.960x540.mp4" type="video/mp4">
+  </video>
+</div>
+
+<div class="content">
+  <h1>👋 Hi, I'm Edison Pineda</h1>
+  <p>BET-CPET Student</p>
+</div>
+
 <h1>👋 Hi, I'm Edison Pineda</h1>
 
 <img align="right" width="280" alt="b5ae4c67949013b10ee7defd4cd0297c-removebg-preview" src="https://github.com/user-attachments/assets/91fd2c2f-a09e-481c-bd72-01e825f818e0" />
