@@ -1,6 +1,6 @@
 <h1>👋 Hi, I'm Edison Pineda</h1>
 
-<img align="right" width="380" src="https://github.com/user-attachments/assets/dfa86adf-9f86-4fad-b313-36ec9bbdecce" alt="Coding"/>
+<img align="right" width="200" src="https://github.com/user-attachments/assets/dfa86adf-9f86-4fad-b313-36ec9bbdecce" alt="Coding"/>
 
 <h3>💻 Bachelor of Engineering Technology – Computer Engineering Technology (BET-CPET)</h3>
 <h3>🎓 Technological University of the Philippines</h3>
@@ -28,7 +28,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,php,vercel,framer,github,vscode,mysql"/>
+<img src="https://skillicons.dev/icons?i=html,css,php,vercel,github,vscode,mysql"/>
 
 </p>
 
