@@ -60,19 +60,19 @@
 <p align="center">
 
 <a href="https://www.facebook.com/PinedaEdison09">
-  <img src="assets/facebook-silver.png" width="60" alt="Facebook">
+<img src="https://img.icons8.com/fluency/96/facebook-new.png" width="55"/>
 </a>
 
 <a href="https://www.instagram.com/son_54200/">
-  <img src="assets/instagram-silver.png" width="60" alt="Instagram">
+<img src="https://img.icons8.com/fluency/96/instagram-new.png" width="55"/>
 </a>
 
 <a href="https://github.com/Son5420">
-  <img src="assets/github-silver.png" width="60" alt="GitHub">
+<img src="https://img.icons8.com/fluency/96/github.png" width="55"/>
 </a>
 
 <a href="mailto:shadow549191514@gmail.com">
-  <img src="assets/gmail-silver.png" width="60" alt="Email">
+<img src="https://img.icons8.com/fluency/96/gmail-new.png" width="55"/>
 </a>
 
 </p>
