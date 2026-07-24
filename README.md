@@ -99,7 +99,7 @@
 
 ---
 
-# 💬 Quote
+#
 
 > **"LEARN • BUILD • DEBUG • IMPROVE • REPEAT"**
 
