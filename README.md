@@ -1,3 +1,4 @@
+<img width="500" height="500" alt="b5ae4c67949013b10ee7defd4cd0297c-removebg-preview" src="https://github.com/user-attachments/assets/3917bdc5-9984-43bb-a474-0ddf8d0ac585" />
 
 <h1>👋 Hi, I'm Edison Pineda</h1>
 
