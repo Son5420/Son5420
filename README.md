@@ -1,7 +1,7 @@
 
 <h1>👋 Hi, I'm Edison Pineda</h1>
 
-<img align="right" width="380" alt="9607-navia-scarysideeye" src="https://github.com/user-attachments/assets/dca775ae-7f96-41f2-9e02-595538c83914" />
+<img align="right" width="380" alt="1784887430379" src="https://github.com/user-attachments/assets/6630d00a-d839-493a-bc6a-4d80f1de6139" />
 
 
 <h3>💻 Bachelor of Engineering Technology – Computer Engineering Technology (BET-CPET)</h3>
