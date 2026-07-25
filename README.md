@@ -1,26 +1,11 @@
 
 <h1>👋 Hi, I'm Edison Pineda</h1>
-<table>
-<tr>
-<td width="10%"></td>
-<td width="50%">
-
-<br><br>
-<br><br>
-<h3>💻 Bachelor of Engineering Technology -</h3> <h3>Computer Engineering Technology (BET-CPET)</h3>
-<h3>🎓 Technological University of the Philippines</h3>
-
-
-</td>
-
-<td width="40%" align="center">
 
 <img width="300" alt="1784889094736" src="https://github.com/user-attachments/assets/4582d8b7-1465-40ca-ad7b-1bd5214cb748" />
 
-</td>
-</tr>
-</table>
-
+<br><br>
+<h3>💻 Bachelor of Engineering Technology -</h3> <h3>Computer Engineering Technology (BET-CPET)</h3>
+<h3>🎓 Technological University of the Philippines</h3>
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C8FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;BET-CPET+Student;Be+Humble;Future+Software+Dev;Always+Learning+New+Technologies" alt="Typing SVG"/>
