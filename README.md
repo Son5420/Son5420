@@ -11,7 +11,7 @@ Your text here...
 
 <td width="40%" align="center">
 
-<img src="your-image.png" width="300" alt="1784889094736" src="https://github.com/user-attachments/assets/4582d8b7-1465-40ca-ad7b-1bd5214cb748" />>
+<img width="300" alt="1784889094736" src="https://github.com/user-attachments/assets/4582d8b7-1465-40ca-ad7b-1bd5214cb748" />>
 
 </td>
 </tr>
