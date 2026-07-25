@@ -1,4 +1,12 @@
+## 📊 GitHub Analytics
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Son5420&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Son5420&theme=tokyo-night&hide_border=true" />
+</p>
 <h1>👋 Hi, I'm Edison Pineda</h1>
 
 <img align=right width="400" alt="1784889094736" src="https://github.com/user-attachments/assets/4582d8b7-1465-40ca-ad7b-1bd5214cb748" />
