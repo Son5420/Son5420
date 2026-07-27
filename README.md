@@ -29,7 +29,7 @@
 - 🌱 Currently learning Framer, Python, Java, and React.
 
 
-</table>
+
 
 
 ---
@@ -99,3 +99,6 @@
 
 LEARN • BUILD • DEBUG • IMPROVE • REPEAT
 ✨ ══════════ 🚀 ══════════ ✨
+
+
+</table>
