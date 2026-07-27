@@ -12,12 +12,13 @@
 />
 
       
-<img 
-  align="right" 
-  width="350" 
-  alt="1784889094736" 
-  src="https://github.com/user-attachments/assets/4582d8b7-1465-40ca-ad7b-1bd5214cb748" 
-/>
+<p align="right">
+  <img 
+    width="350" 
+    alt="1784889094736" 
+    src="https://github.com/user-attachments/assets/4582d8b7-1465-40ca-ad7b-1bd5214cb748" 
+  />
+</p>
 
 
    
