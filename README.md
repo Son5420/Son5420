@@ -1,6 +1,6 @@
  
 
- <h1>👋 Hi, I'm Edison Pineda</h1>
+ <h1>👋 Hi, I'm Son Pineda</h1>
 
  
 
