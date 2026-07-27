@@ -13,7 +13,7 @@
   alt="Typing SVG"
 />
 
-# 🚀 About Me
+### 🚀 About Me
 
 🎓 **University:** Technological University of the Philippines
 
