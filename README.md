@@ -1,16 +1,14 @@
 
 <h1>👋 Hi, I'm Edison Pineda</h1>
 
-<img 
-  align="right"
-  width="360"
-  src="https://github.com/user-attachments/assets/4582d8b7-1465-40ca-ad7b-1bd5214cb748"
-  alt="Profile image"
-/>
+<table>
+  <tr>
+    <td width="55%" valign="top">
 
 <img 
   src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=00C8FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;BET-CPET+Student;Be+Humble;Future+Software+Dev;Always+Learning+New+Technologies" 
   alt="Typing SVG"
+  width="100%"
 />
 
 ### 🚀 About Me
@@ -23,6 +21,17 @@ Major in Computer Engineering Technology (BET-CPET)
 💻 **Future:** Web Developer and Software Engineer
 
 🌱 Currently learning Framer, Python, Java, and React.
+
+    </td>
+    <td width="45%" align="right" valign="top">
+      <img 
+        src="https://github.com/user-attachments/assets/4582d8b7-1465-40ca-ad7b-1bd5214cb748"
+        alt="Profile image"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
 # 🛠 Tech Stack
 
