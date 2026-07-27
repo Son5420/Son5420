@@ -8,7 +8,8 @@
 
 </p>
 
-🚀 About Me
+# 🚀 About Me
+
 🎓 University: Technological University of the Philippines
 📚 Course: Bachelor of Engineering Technology 
  Major In Computer Engineering Technology (BET-CPET)
