@@ -11,10 +11,10 @@
 # 🚀 About Me
 
 - 🎓 University: Technological University of the Philippines
--📚 Course: Bachelor of Engineering Technology 
+- 📚 Course: Bachelor of Engineering Technology 
  Major In Computer Engineering Technology (BET-CPET)
--💻 Future: Web Dev, and Software Engr.
--🌱 Currently learning Framer, Python, Java, and React.
+- 💻 Future: Web Dev, and Software Engr.
+- 🌱 Currently learning Framer, Python, Java, and React.
 
 # 🛠 Tech Stack
 
