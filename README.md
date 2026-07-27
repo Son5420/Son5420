@@ -50,10 +50,11 @@
 
 </p>
 
- 
+
+---
 
 
-# 🔥 GitHub Streak
+### 🔥 GitHub Streak
 
 <p align="center">
 
@@ -62,8 +63,10 @@
 </p>
 
 
+---
 
-# 📈 Contribution Graph
+
+### 📈 Contribution Graph
 
 <p align="center">
 
@@ -72,8 +75,10 @@
 </p>
 
 
+---
 
-# 🌐 Connect With Me
+
+### 🌐 Connect With Me
 
 <p align="center">
 
@@ -94,6 +99,9 @@
 </a>
 
 </p>
+
+
+---
 
 
 <p align="center">
