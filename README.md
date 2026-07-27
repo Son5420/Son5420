@@ -1,35 +1,30 @@
 
 <h1>👋 Hi, I'm Edison Pineda</h1>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img 
-        src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C8FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;BET-CPET+Student;Be+Humble;Future+Software+Dev;Always+Learning+New+Technologies" 
-        alt="Typing SVG"
-        width="100%"
-      />
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/4582d8b7-1465-40ca-ad7b-1bd5214cb748"
+    alt="Profile image"
+    width="300"
+  />
+</p>
 
-# 🚀 About Me
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=00C8FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;BET-CPET+Student;Be+Humble;Future+Software+Dev;Always+Learning+New+Technologies" 
+  alt="Typing SVG"
+  width="100%"
+/>
+
+### 🚀 About Me
 
 🎓 **University:** Technological University of the Philippines
 
-📚 **Course:** Bachelor of Engineering Technology**  
+📚 **Course:** Bachelor of Engineering Technology  
 Major in Computer Engineering Technology (BET-CPET)
 
 💻 **Future:** Web Developer and Software Engineer
 
 🌱 Currently learning Framer, Python, Java, and React.
-    </td>
-    <td width="50%" align="right" valign="top">
-      <img 
-        src="https://github.com/user-attachments/assets/4582d8b7-1465-40ca-ad7b-1bd5214cb748"
-        alt="Profile image"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
 
 # 🛠 Tech Stack
 
