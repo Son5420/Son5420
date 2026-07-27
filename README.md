@@ -13,8 +13,7 @@
 
 🎓 **University:** Technological University of the Philippines
 
-📚 **Course:** Bachelor of Engineering Technology 
- Major In Computer Engineering Technology (BET-CPET)
+📚 **Course:** Bachelor of Engineering Technology <br> Major In Computer Engineering Technology (BET-CPET)
 
 💻 **Future:** Web Dev, and Software Engr.
 
