@@ -39,7 +39,7 @@
 
 ---
 
-<table> 
+ 
 
 
 ### 🛠 Tech Stack
@@ -50,7 +50,7 @@
 
 </p>
 
-</table>
+ 
 
 
 # 🔥 GitHub Streak
@@ -105,7 +105,8 @@
 <div align="center">
 
 LEARN • BUILD • DEBUG • IMPROVE • REPEAT
+
 ✨ ══════════ 🚀 ══════════ ✨
+</div>
 
-
-</table>
+ 
