@@ -12,12 +12,7 @@
   width="100%"
 />
 </p>
-<img 
-  align="right"
-  width="360"
-  src="https://github.com/user-attachments/assets/4582d8b7-1465-40ca-ad7b-1bd5214cb748"
-  alt="Profile image"
-/>
+
 # 🚀 About Me
 
 - 🎓 University: Technological University of the Philippines
