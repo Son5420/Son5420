@@ -14,8 +14,8 @@
       <img 
         src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=00C8FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;BET-CPET+Student;Be+Humble;Future+Software+Dev;Always+Learning+New+Technologies" 
         alt="Typing SVG"
-        width="100%"
-      />
+        width="100%"/>
+
 
 ---
 
@@ -30,20 +30,12 @@
   💻 **Future:** Web Developer and Software Engineer
 
   🌱 Currently learning Framer, Python, Java, and React.
-    </td>
-
-
    </td>
   </tr>
 </table>
 
 
-
-<br>
-
 ---
-
- 
 
 
 ### 🛠 Tech Stack
@@ -98,7 +90,7 @@
 <img src="https://img.icons8.com/fluency/96/github.png" width="55"/>
 </a>
 
-<a href="mailto:shadow549191514@gmail.com">
+<a href="mailto:pinedaedison142@gmail.com">
 <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="55"/>
 </a>
 
