@@ -25,7 +25,9 @@
 - 💻 Future: Web Dev, and Software Engr.
 - 🌱 Currently learning Framer, Python, Java, and React.
 
-# 🛠 Tech Stack
+---
+
+### 🛠 Tech Stack
 
 <p align="center">
 
