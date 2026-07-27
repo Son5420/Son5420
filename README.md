@@ -3,7 +3,7 @@
 
 <table>
   <tr>
-    <td width="65%" valign="top">
+    <td width="50%" valign="top">
       <img 
         src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C8FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;BET-CPET+Student;Be+Humble;Future+Software+Dev;Always+Learning+New+Technologies" 
         alt="Typing SVG"
@@ -21,7 +21,7 @@ Major in Computer Engineering Technology (BET-CPET)
 
 🌱 Currently learning Framer, Python, Java, and React.
     </td>
-    <td width="35%" align="right" valign="top">
+    <td width="50%" align="right" valign="top">
       <img 
         src="https://github.com/user-attachments/assets/4582d8b7-1465-40ca-ad7b-1bd5214cb748"
         alt="Profile image"
