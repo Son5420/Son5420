@@ -14,7 +14,7 @@
 </p>
 
 # 🚀 About Me
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C8FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;BET-CPET+Student;Be+Humble;Future+Software+Dev;Always+Learning+New+Technologies" alt="Typing SVG"/>
 - 🎓 University: Technological University of the Philippines
 - 📚 Course: Bachelor of Engineering Technology 
 - Major In Computer Engineering Technology (BET-CPET)
