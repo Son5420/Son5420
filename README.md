@@ -22,7 +22,7 @@ Major in Computer Engineering Technology (BET-CPET)
 
 🌱 Currently learning Framer, Python, Java, and React.
     </td>
-    <td width="35%" align="right" valign="top">
+    <td width="50%" align="right" valign="top">
       <img 
         src="https://github.com/user-attachments/assets/4582d8b7-1465-40ca-ad7b-1bd5214cb748"
         alt="Profile image"
