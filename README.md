@@ -50,6 +50,8 @@
 
 </p>
 
+</table>
+
 
 # 🔥 GitHub Streak
 
