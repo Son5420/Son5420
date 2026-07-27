@@ -28,7 +28,7 @@
   </tr>
 </table>
 
-  <td width="45%" valign="top" align="right">
+  <td width="100" valign="top" align="right">
       <img 
         width="300" 
         alt="1784889094736" 
