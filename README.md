@@ -10,19 +10,20 @@
         width="100%"
       />
 
-      ### 🚀 About Me
 
-      🎓 **University:** Technological University of the Philippines
+### 🚀 About Me
 
-      📚 **Course:** Bachelor of Engineering Technology  
+  🎓 **University:** Technological University of the Philippines
+
+  📚 **Course:** Bachelor of Engineering Technology  
       Major in Computer Engineering Technology (BET-CPET)
 
-      💻 **Future:** Web Developer and Software Engineer
+  💻 **Future:** Web Developer and Software Engineer
 
-      🌱 Currently learning Framer, Python, Java, and React.
+  🌱 Currently learning Framer, Python, Java, and React.
     </td>
 
-    <td width="45%" valign="top" align="right">
+  <td width="45%" valign="top" align="right">
       <img 
         width="350" 
         alt="1784889094736" 
