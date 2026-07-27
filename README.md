@@ -1,14 +1,7 @@
 
 <h1>👋 Hi, I'm Edison Pineda</h1>
 
-
-  <td width="100" valign="top" align="right">
-      <img 
-        width="300" 
-        alt="1784889094736" 
-        src="https://github.com/user-attachments/assets/4582d8b7-1465-40ca-ad7b-1bd5214cb748" 
-      />
-
+ <img align="left" width="350" alt="1784889094736" src="https://github.com/user-attachments/assets/4582d8b7-1465-40ca-ad7b-1bd5214cb748"/>  
 
 
 
