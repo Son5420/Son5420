@@ -11,15 +11,15 @@
   width="100%"
 />
   <img align="right" width="350" alt="1784889094736" src="https://github.com/user-attachments/assets/4582d8b7-1465-40ca-ad7b-1bd5214cb748" />
-
-# 🚀 About Me
 <br>
+# 🚀 About Me
+
 - 🎓 University: Technological University of the Philippines
 - 📚 Course: Bachelor of Engineering Technology 
 - Major In Computer Engineering Technology (BET-CPET)
 - 💻 Future: Web Dev, and Software Engr.
 - 🌱 Currently learning Framer, Python, Java, and React.
-<br>
+
 # 🛠 Tech Stack
 
 <p align="center">
