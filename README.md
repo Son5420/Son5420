@@ -90,7 +90,7 @@
 <img src="https://img.icons8.com/fluency/96/github.png" width="55"/>
 </a>
 
-<a href="mailto:pinedaedison142@gmail.com">
+<a href="mailto:pinedaedison110@gmail.com">
 <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="55"/>
 </a>
 
