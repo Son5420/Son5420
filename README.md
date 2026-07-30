@@ -76,22 +76,22 @@
 
 ### 🌐 Connect With Me
 
-<p align="center">
+<p align="">
 
 <a href="https://www.facebook.com/PinedaEdison09">
-<img src="https://img.icons8.com/fluency/96/facebook-new.png" width="55"/>
+<img src="https://img.icons8.com/fluency/96/facebook-new.png" width="40"/>
 </a>
 
 <a href="https://www.instagram.com/son_54200/">
-<img src="https://img.icons8.com/fluency/96/instagram-new.png" width="55"/>
+<img src="https://img.icons8.com/fluency/96/instagram-new.png" width="40"/>
 </a>
 
 <a href="https://github.com/Son5420">
-<img src="https://img.icons8.com/fluency/96/github.png" width="55"/>
+<img src="https://img.icons8.com/fluency/96/github.png" width="40"/>
 </a>
 
 <a href="mailto:pinedaedison110@gmail.com">
-<img src="https://img.icons8.com/fluency/96/gmail-new.png" width="55"/>
+<img src="https://img.icons8.com/fluency/96/gmail-new.png" width="40"/>
 </a>
 
 </p>
