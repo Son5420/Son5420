@@ -76,7 +76,7 @@
 
 ### 🌐 Connect With Me
 
-<p align="">
+<p align="center">
 
 <a href="https://www.facebook.com/PinedaEdison09">
 <img src="https://img.icons8.com/fluency/96/facebook-new.png" width="40"/>
