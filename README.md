@@ -14,12 +14,9 @@
     <td width="400">
      <br>
       <img 
-        src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=00C8FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;BET-CPET+Student;Future+Dev;Always+Learning+New+Technologies;Be+Humble;Be+Sigma+🤫🧏‍♂️🗿
+        src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=00C8FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;BET-CPET+Student;Future+Dev;Always+Learning+New+Technologies;Be+Humble;Be+Sigma🗿;
 
-Emojis: https://emoj.info/sigma" 
-        alt="Typing SVG"
-        width="100%"/>
-
+ 
 
 ---
 
